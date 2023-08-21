@@ -1,0 +1,16 @@
+{
+  "name": "com.karimzopro.taskhub",
+  "version": "1.2.0",
+  "displayName": "TaskHub",
+  "description": "Create a tasks inside Unity editor",
+  "unity": "2022.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "author": {
+    "name": "Unity",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
